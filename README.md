@@ -3,8 +3,8 @@ This repository contains all additional material such as AAS and PDDL files for 
 
 | PDDL File    | Use Case (Paper) |
 | -------- | ------- |
-| problem.pddl  | Battery Pack at productionisland_KUBA (Section 4) |
-| problem2.pddl | Truck Assembly with AMRs at SmartFactory-KL (Section 5) |
-| problem3.pddl | Raspberry_Pi Assembly with AMRs at RICAIP Saarbrücken testbed (Section 5) |
+| problem_battery.pddl  | Battery Pack at productionisland_KUBA (Section 4) |
+| problem_truck.pddl | Truck Assembly with AMRs at SmartFactory-KL (Section 5) |
+| problem_raspberryPi.pddl | Raspberry_Pi Assembly with AMRs at RICAIP Saarbrücken testbed (Section 5) |
 
 
